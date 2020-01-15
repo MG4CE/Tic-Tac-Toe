@@ -2,7 +2,7 @@
 Assignment from SYSC 2004 - Object-Oriented Software Development
 
 The game of Tic-Tac-Toe built using a 3-by-3 2D array of JButtons 
-![Game](https://imgur.com/a/ly9cPX2)
+![Game](https://i.imgur.com/tzCYxYy.png)
 
 ## Built With
 - Swing Framework
